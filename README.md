@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Nabil dawami](img\github-header-banner.png)
+![Nabil dawami](github-header-banner.png)
 <!--
 **MNabildawami/MNabildawami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
