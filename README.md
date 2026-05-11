@@ -1,38 +1,84 @@
-## Hello World! i'm Nabil dawami 👋
+# M. Nabil Dawami
 
-![Nabil dawami](github-header-banner.png)
+### Industrial Data & Security Analyst
 
-
-![ you can](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGkzcnlmcWhja3Qzd3VscjFnaHNreTl1MHYzM3d1YTY0NGVndmhhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQhB96wfblORgI0/giphy.gif)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naabildawami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-nabil-dawami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadnabildawami@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MNabildawami&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MNabildawami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNabildawami&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MNabildawami&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MNabildawami&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Building intelligent systems, analytics platforms, and secure digital infrastructure for modern enterprises.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MNabildawami&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">you know</h3>
+## Ecosystem
 
-###
+🌐 Portfolio  
+https://nabeelsite.vercel.app
+
+📝 Nabil Nexus  
+https://nabilnexus.blogspot.com
+
+---
+
+## Focus Areas
+
+- Industrial Data Analytics
+- Cybersecurity Monitoring
+- Enterprise Systems
+- Operational Intelligence
+- Intelligent Infrastructure
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Odoo](https://img.shields.io/badge/Odoo-111111?style=for-the-badge&logo=odoo)
+
+---
+
+## Featured Projects
+
+### Clinical Disease Classification
+AI-powered medical image classification system using deep learning and operational analytics.
+
+### Post-Quantum Cryptography
+Implementation of ML-DSA digital signatures for secure digital evidence infrastructure.
+
+### ERP System Development
+Enterprise operational system development using Odoo and scalable backend architecture.
+
+### Portfolio Systems Architecture
+Modern enterprise portfolio ecosystem built with React, TypeScript, and intelligent UI systems.
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](https://nabeelsite.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/m-nabil-dawami)
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://instagram.com/naabildawami)
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:muhammadnabildawami@gmail.com)
+
+---
+
+## GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=MNabildawami&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNabildawami&theme=transparent&hide_border=true&layout=compact)
+
+---
+
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph.svg">
 </picture>
-
-###
