@@ -1,74 +1,113 @@
 <div align="center">
 
-# <span style="color:#0AE2FF;">M. Nabil Dawami</span>
-### Industrial Data & Security Analyst
+# M. Nabil Dawami
 
-> *Building intelligent systems, analytics platforms, and secure digital infrastructure for modern enterprises.*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+intelligent+systems+%26+analytics+platforms;Securing+digital+infrastructure+for+modern+enterprises" alt="Typing Animation"/>
 
-<br>
+</div>
+
+
+---
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://nabeelsite.vercel.app)
+&nbsp;
+[![Blog](https://img.shields.io/badge/Nabil_Nexus-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0d1117)](https://nabilnexus.blogspot.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/m-nabil-dawami-b55380215/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/naabildawami)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:muhammadnabildawami@gmail.com)
+
+</div>
 
 ---
 
-## 🌐 Ecosystem
+## 〔 About 〕
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=0AE2FF)](https://nabeelsite.vercel.app)
-[![Blog](https://img.shields.io/badge/Nabil_Nexus-111111?style=for-the-badge&logo=blogger&logoColor=0AE2FF)](https://nabilnexus.blogspot.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0AE2FF)](https://linkedin.com/in/m-nabil-dawami)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=0AE2FF)](mailto:muhammadnabildawami@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=0AE2FF)](https://github.com/MNabildawami)
+```yaml
+name        : M. Nabil Dawami
+role        : Industrial Data & Security Analyst
+location    : Pekanbaru, Riau, Indonesia
+focus       :
+              - Industrial Data Analytics & Operational Intelligence
+              - Cybersecurity Monitoring & Post-Quantum Cryptography
+              - AI/ML Systems for Industrial Applications
+currently   : Focused on learning and developing modern analytics, security, and intelligent systems
+```
 
-<br>
+## 〔 Tech Stack 〕
 
----
+<div align="center">
 
-## 🎯 Focus Areas
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,react,fastapi,tensorflow&theme=dark&perline=5)](https://skillicons.dev)
 
-`Industrial Analytics` `Cybersecurity Monitoring` `Operational Intelligence` `Intelligent Infrastructure`
+### Infrastructure & Tools
+[![My Skills](https://skillicons.dev/icons?i=postgresql,docker,linux,git,vscode&theme=dark&perline=5)](https://skillicons.dev)
 
-<br>
+### Platforms & Others
+[![My Skills](https://skillicons.dev/icons?i=vercel,github,figma,nodejs,nginx&theme=dark&perline=5)](https://skillicons.dev)
 
----
-
-## 🛠️ Tech Stack
-
-| | | | |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=0AE2FF) | ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=0AE2FF) | ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=0AE2FF) | ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=0AE2FF) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=0AE2FF) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=0AE2FF) | ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=0AE2FF) | ![Odoo](https://img.shields.io/badge/Odoo-111111?style=for-the-badge&logo=odoo&logoColor=0AE2FF) |
-
-<br>
-
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **Industrial Analytics Dashboard** | Real‑time operational intelligence platform with predictive analytics and integrated cybersecurity monitoring. |
-| **Secure Digital Infrastructure** | Enterprise‑grade architecture enforcing zero‑trust security, continuous monitoring, and resilient system design. |
-| **Operational Intelligence System** | End‑to‑end analytics pipeline that transforms raw industrial data into actionable insights for critical decision‑making. |
-| **NabeelSite Portfolio Architecture** | Modern portfolio engineered as a secure, high‑performance digital workspace reflecting enterprise systems thinking. |
-
-<br>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 〔 GitHub Trophies 〕
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MNabildawami&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&text_color=0AE2FF&title_color=0AE2FF&icon_color=0AE2FF)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MNabildawami&theme=transparent&hide_border=true&layout=compact&text_color=0AE2FF&title_color=0AE2FF)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MNabildawami&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
+</div>
 
 ---
 
-## 🕹️ Contribution Graph
+
+## 〔 GitHub Analytics 〕
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MNabildawami&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MNabildawami&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MNabildawami&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+
+## 〔 Activity Graph 〕
+
+<div align="center">
+
+[![Nabil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MNabildawami&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 〔 Contribution Graph 〕
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/MNabildawami/MNabildawami/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
+
+---
+
+
+<div align="center">
+
+
+*"Building intelligent systems, one commit at a time."*
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=MNabildawami&color=58a6ff&style=for-the-badge&label=VISITORS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
 
 </div>
