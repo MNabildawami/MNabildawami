@@ -56,35 +56,37 @@ focus       :
 currently   : Building predictive models, forecasting algorithms, and scalable web solutions
 ```
 
-<br/>
+<div>
 
 ## 🚀 Core Expertise
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
+</div>
 
-### 🔬 Data Science & ML
-Predictive Analytics<br/>Predictive Maintenance<br/>Anomaly & Fraud Detection<br/>Forecasting Algorithms<br/>Python · Scikit-Learn<br/>TensorFlow · FastAPI
+<p align="center">
+  <img src="https://img.shields.io/badge/01._DATA_SCIENCE_%26_ML-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF&border=58A6FF" alt="Data Science Header" />
+</p>
 
-</td>
-<td width="33%" valign="top" align="center">
+> **🔬 Predictive Analytics & Machine Learning**
+> * **Capabilities:** Predictive Maintenance | Anomaly & Fraud Detection | Forecasting Algorithms | Statistical Modeling
+> * **Stack:** `Python` `Scikit-Learn` `TensorFlow` `FastAPI` `Pandas` `NumPy`
 
-### 📊 Analytics & BI
-Executive Dashboards<br/>Data Storytelling<br/>Power BI · SQL<br/>PostgreSQL<br/>Data Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/02._ANALYTICS_%26_BI-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF&border=58A6FF" alt="Analytics Header" />
+</p>
 
-</td>
-<td width="33%" valign="top" align="center">
+> **📊 Business Intelligence & Data Analytics**
+> * **Capabilities:** Executive Dashboards | Data Storytelling | KPI Tracking | Enterprise Data Viz
+> * **Stack:** `Power BI` `SQL` `PostgreSQL` `Metabase` `Excel Analytics`
 
-### 💻 Enterprise Software
-Full-Stack Web Development<br/>React · Next.js<br/>Node.js · TypeScript<br/>REST APIs<br/>Scalable Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/03._ENTERPRISE_SOFTWARE-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF&border=58A6FF" alt="Software Header" />
+</p>
 
-</td>
-</tr>
-</table>
+> **💻 Scalable Software Development**
+> * **Capabilities:** Full-Stack Web Development | RESTful APIs | System Architecture | UI/UX Engineering
+> * **Stack:** `React` `Next.js` `Node.js` `TypeScript` `Tailwind CSS`
 
-<br/>
-
+---
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -109,40 +111,6 @@ Full-Stack Web Development<br/>React · Next.js<br/>Node.js · TypeScript<br/>RE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:58A6FF&height=3&width=100%25" width="100%" alt="divider"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MNabildawami&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="M. Nabil Dawami GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MNabildawami&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="M. Nabil Dawami GitHub Stats"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MNabildawami&layout=compact&theme=algolia&hide_border=true" alt="M. Nabil Dawami Top Languages"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MNabildawami&theme=algolia&hide_border=true" alt="M. Nabil Dawami GitHub Streak Stats"/>
-</div>
-
-<br/>
-
-## 📊 Activity Graph
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MNabildawami&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="M. Nabil Dawami GitHub Activity Graph"/>
-</div>
-
-<br/>
 
 ## 🎮 Contribution Graph
 
@@ -163,13 +131,7 @@ Full-Stack Web Development<br/>React · Next.js<br/>Node.js · TypeScript<br/>RE
 *"Building intelligent systems, one commit at a time."*
 **— M. Nabil Dawami, Data Scientist & Data Analyst, Pekanbaru, Riau, Indonesia**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&labelColor=0d1117)](https://nabeelsite.vercel.app)
-[![Blog](https://img.shields.io/badge/📝_Blog-FF5722?style=for-the-badge&labelColor=0d1117)](https://nabilnexus.blogspot.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/m-nabil-dawami-b55380215/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/naabildawami)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:muhammadnabildawami@gmail.com)
 
-<br/>
 
 ![M. Nabil Dawami Profile Views](https://komarev.com/ghpvc/?username=MNabildawami&color=58a6ff&style=for-the-badge&label=VISITORS)
 
